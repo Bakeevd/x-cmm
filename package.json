@@ -2,6 +2,7 @@
   "name": "x-cmm",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bakeevd.github.io/x-cmm/",
   "dependencies": {
     "@telegram-apps/sdk": "^2.9.1",
     "cra-template": "1.2.0",
